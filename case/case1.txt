@@ -1,0 +1,8 @@
+0001_internal_deposit, Deposit, PASS
+0002_internal_deposit_4ep, Deposit, SKIP
+0003_external_deposit_4ep, Deposit, PASS
+0004_invalid_external_deposit, Deposit, FAIL
+0001_dump_in_withdrawal, Withdrawal, PASS
+0002_dump_in_withdrawal_invalid, Withdrawal, FAIL
+0003_withdrawal_internal_4ep, Withdrawal, FAIL
+0004_withdrawal_internal_4ep_rejected, Withdrawal, SKIP

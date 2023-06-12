@@ -1,0 +1,10 @@
+0005_external_deposit_with_fee, Deposit, PASS
+0006_invalid_internal_deposit, Deposit, FAIL
+0007_external_deposit_4ep_rejected, Deposit, SKIP
+0008_internal_transfer, Transfer, PASS
+0009_internal_transfer_insufficient_funds, Transfer, FAIL
+0010_internal_transfer_pending, Transfer, SKIP
+0011_external_transfer, Transfer, PASS
+0012_external_transfer_invalid_account, Transfer, FAIL
+0013_external_transfer_4ep, Transfer, PASS
+0014_internal_withdrawal, Withdrawal, PASS

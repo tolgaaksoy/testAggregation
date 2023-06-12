@@ -1,0 +1,10 @@
+0010_internal_transfer_pending, Transfer, SKIP
+0011_external_transfer, Transfer, PASS
+0012_external_transfer_invalid_account, Transfer, FAIL
+0013_external_transfer_4ep, Transfer, PASS
+0014_internal_withdrawal, Withdrawal, PASS
+0015_internal_withdrawal_invalid_amount, Withdrawal, FAIL
+0016_internal_withdrawal_pending_approval, Withdrawal, SKIP
+0017_external_withdrawal, Withdrawal, PASS
+0018_external_withdrawal_insufficient_balance, Withdrawal, FAIL
+0019_external_withdrawal_4ep, Withdrawal, PASS

@@ -1,0 +1,8 @@
+0005_internal_transfer, Transfer, PASS
+0006_internal_transfer_insufficient_funds, Transfer, FAIL
+0007_external_transfer, Transfer, PASS
+0008_external_transfer_invalid_account, Transfer, FAIL
+0009_internal_balance_inquiry, Balance Inquiry, PASS
+0010_internal_balance_inquiry_invalid_account, Balance Inquiry, FAIL
+0011_external_balance_inquiry, Balance Inquiry, PASS
+0012_external_balance_inquiry_invalid_account, Balance Inquiry, FAIL
